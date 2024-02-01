@@ -1,2 +1,1 @@
-# binary_trees
-binary_trees alx
+project on binary tree
